@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+db.sqlite3
+env/
+venv/
+
+# Django specific
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+media/
+staticfiles/
+local_settings.py
+
+# React specific
+node_modules/
+build/
+.env
+
+# VS Code
+.vscode/
+
+# Others
+.DS_Store
